@@ -1,0 +1,20 @@
+body{
+    align-items: center;
+}
+
+.cardmb-3{
+    background-color: rgb(184, 207, 241);
+    margin-top: 100px;
+    margin-bottom: 250px;
+}
+
+h5{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1px;
+    padding-top: 15px;
+}
+
+p{
+    font-size: 25px;
+   padding-top: 45px;
+}
